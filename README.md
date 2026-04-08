@@ -1,20 +1,20 @@
 # ✦ ANOM ORIGINALS
 
 Hi, I’m **Anom** — creator of **Anom Originals (AO)**.  
-I build expressive digital spaces with dark polish, vivid energy, and a style-first point of view.
+I build expressive digital spaces with dark polish, bold ideas, and a style-first point of view.
 
 ---
 
 ## ✦ About Me
 
-I’m a creative builder who loves brand-led web spaces, visual identity, and expressive digital presentation.
+I’m a creative builder drawn to brand-led web spaces, visual identity, and personality-driven design.
 
-My work lives in the space between:
+My work lives somewhere between:
 - art and layout
 - mood and usability
-- personality and structure
+- creativity and structure
 
-I like projects that feel curated, memorable, and alive — not generic, not cold, and never copy-paste.
+I love projects that feel curated, memorable, and alive.
 
 ---
 
@@ -22,8 +22,8 @@ I like projects that feel curated, memorable, and alive — not generic, not col
 
 Right now I’m focused on shaping the **Anom Originals** world across web and creative platforms.
 
-### Current featured project
-- **[anom-artsy-rebuild](https://github.com/Anomoly247/anom-artsy-rebuild)** — clean AO-style rebuild for Anom Artsy
+### ✦ Featured Project
+- **[anom-artsy-rebuild](https://github.com/Anomoly247/anom-artsy-rebuild)** — an AO-style rebuild for Anom Artsy
 
 ---
 
@@ -33,7 +33,7 @@ Right now I’m focused on shaping the **Anom Originals** world across web and c
 - dark base
 - vivid accents
 - bold but clean presentation
-- artistic energy with readable structure
+- expressive visual identity
 - feminine edge
 - brand-first creative direction
 
