@@ -1,4 +1,6 @@
-<img src="anom-originals-header-wide-clean.png" alt="Anom Originals header" width="100%" />
+<p align="center">
+  <img src="anom-originals-header-wide-clean.png" alt="Anom Originals header" width="100%" />
+</p>
 
 ## ✦ ANOM ORIGINALS
 
