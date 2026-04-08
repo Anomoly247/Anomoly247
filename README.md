@@ -1,6 +1,8 @@
-# ✦ ANOM ORIGINALS
+<p align="center">
+  <img src="assets/images/anom-originals-header-main.png" alt="Anom Originals header" width="100%" />
+</p>
 
-**Dark visuals. Bold ideas. Expressive web spaces.**
+## ✦ ANOM ORIGINALS
 
 Hi, I’m **Anom** — creator of **Anom Originals (AO)**.  
 I build digital spaces with mood, personality, and style-first creative direction.
@@ -60,12 +62,6 @@ Right now I’m focused on shaping the **Anom Originals** world across web and c
 
 I don’t want my work to feel like a template.  
 I want it to feel like a world.
-
----
-
-## ✦ Find Me Here
-
-- GitHub: [@Anomoly247](https://github.com/Anomoly247)
 
 ---
 
