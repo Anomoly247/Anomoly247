@@ -1,7 +1,9 @@
 # ✦ ANOM ORIGINALS
 
+**Dark visuals. Bold ideas. Expressive web spaces.**
+
 Hi, I’m **Anom** — creator of **Anom Originals (AO)**.  
-I build expressive digital spaces with dark polish, bold ideas, and a style-first point of view.
+I build digital spaces with mood, personality, and style-first creative direction.
 
 ---
 
