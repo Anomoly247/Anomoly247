@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/anom-originals-header-main.png" alt="Anom Originals header" width="100%" />
+  <img src="anom-originals-header-main.png" alt="Anom Originals header" width="100%" />
 </p>
 
 ## ✦ ANOM ORIGINALS
