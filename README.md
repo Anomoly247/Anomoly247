@@ -4,66 +4,68 @@
 
 ## ✦ ANOM ORIGINALS
 
-Hi, I’m **Anom** — creator of **Anom Originals (AO)**.  
+Hi, I'm **Anom** — creator of **Anom Originals (AO)**.
 I build digital spaces with mood, personality, and style-first creative direction.
+
+*Identity in Every Pixel.*
+
+---
+
+## ✦ Live Right Now
+
+- **[anomartsy.xyz](https://anomartsy.xyz)** — the AO homeworld: art, stories, games, and the kids corner
+- **[The Anomoly Archive](https://anomarsty.lol)** — the AO digital art shop: backgrounds, emote sets, and profile art across four rarity tiers, Novelty → Curiosity → Relic → Anomoly
+- **[AO Merch](https://anomoriginals.myspreadshop.com)** — wearable AO
 
 ---
 
 ## ✦ About Me
 
-I’m a creative builder drawn to brand-led web spaces, visual identity, and personality-driven design.
+I'm a creative builder drawn to brand-led web spaces, visual identity, and personality-driven design.
 
 My work lives somewhere between:
+
 - art and layout
 - mood and usability
 - creativity and structure
 
-I love projects that feel curated, memorable, and alive.
+I love projects that feel curated, memorable, and alive — and I ship them myself, end to end: design, code, and deployment.
 
 ---
 
-## ✦ What I’m Building
+## ✦ What I'm Building
 
-Right now I’m focused on shaping the **Anom Originals** world across web and creative platforms.
+The **AO Universe** — a connected world of art, stories, and spaces, built solo from the ground up.
 
-### ✦ Featured Project
-- **[anom-artsy-rebuild](https://github.com/Anomoly247/anom-artsy-rebuild)** — an AO-style rebuild for Anom Artsy
+- **The Anomoly Archive** — live storefront for finished AO artwork
+- **Sanctuary** — a full social platform in development: profiles, a coin economy, lounges, and a kids corner
+- **Anom's Corner** — family-friendly stories and characters, including Pixel & Dot
 
 ---
 
 ## ✦ AO Style
 
 **Anom Originals** means:
-- dark base
-- vivid accents
-- bold but clean presentation
-- expressive visual identity
-- feminine edge
+
+- a near-black base with cyan, magenta, and gold
+- vivid accents, bold but clean presentation
+- expressive visual identity with a feminine edge
 - brand-first creative direction
 
 ---
 
 ## ✦ Working With
 
-`HTML` `CSS` `GitHub Pages` `Brand Design` `Creative Direction` `Visual Storytelling`
-
----
-
-## ✦ Current Direction
-
-- refining my GitHub presence
-- building AO brand consistency
-- creating polished visual-first web spaces
-- turning ideas into projects with personality
+`React` `TypeScript` `Node.js` `MariaDB` `AWS` `nginx` `HTML` `CSS` `GitHub Pages` `Brand Design` `Creative Direction` `Visual Storytelling`
 
 ---
 
 ## ✦ Philosophy
 
-I don’t want my work to feel like a template.  
+I don't want my work to feel like a template.
 I want it to feel like a world.
 
 ---
 
-**Anom Originals**  
+**Anom Originals**
 Built with style, mood, and a little beautiful chaos.
