@@ -69,3 +69,10 @@ I want it to feel like a world.
 
 **Anom Originals**
 Built with style, mood, and a little beautiful chaos.
+---
+
+### 🎓 Academic Status
+* **Institution:** Maestro College
+* **Program:** B.S. in Computer Science & AI (Associate of Applied Science in AI Software Engineering)
+* **Student ID:** `MS-26-64803946`
+
