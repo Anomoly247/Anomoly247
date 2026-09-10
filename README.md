@@ -56,8 +56,7 @@ The **AO Universe** — a connected world of art, stories, and spaces, built sol
 
 ## ✦ Working With
 
-`React` `TypeScript` `Node.js` `MariaDB` `AWS` `nginx` `HTML` `CSS` `GitHub Pages` `Brand Design` `Creative Direction` `Visual Storytelling`
-
+React TypeScript Python JavaScript Node.js MariaDB AWS nginx Git Ubuntu HTML CSS GitHub Pages Brand Design Creative Direction Visual Storytelling
 ---
 
 ## ✦ Philosophy
