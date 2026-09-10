@@ -76,3 +76,17 @@ Built with style, mood, and a little beautiful chaos.
 * **Program:** B.S. in Computer Science & AI (Associate of Applied Science in AI Software Engineering)
 * **Student ID:** `MS-26-64803946`
 
+### ⚡ Core Capabilities & Focus
+* **Full-Stack & Systems:** Python, JavaScript, HTML5, CSS3, Node.js, and command-line deployments via Git, Ubuntu, Nginx, and AWS EC2.
+* **AI & Engineering Pathway:** Actively engineering intelligent application modules and exploring machine learning architectures through university coursework.
+* **Interactive Design & World-Building:** Crafting cyber-themed user interfaces, dynamic web applications, original character concepts, and animated visual assets.
+
+### 🌐 Featured AO Ecosystem Hubs
+* **[anomartsy.xyz](https://www.anomartsy.xyz)** — The main AO homeworld featuring art, stories, games, and immersive spaces.
+* **The AO Portfolio Gallery** — A curated masonry showcase of profile designs, mood memes, digital blings, and custom graphics.
+* **Sanctuary** — A community and social platform featuring profile customization, coin economies, lounges, and an interactive kids' corner.
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anomoly247&show_icons=true&theme=radical&bg_color=050505&text_color=E0E0E0&icon_color=00FFFF&border_color=333333" alt="GitHub Stats" />
+</p>
